@@ -1,0 +1,19 @@
+.odd-nos {
+    background-color: #FFC0CB;
+    font-family: "verdana", "dejavu sans", "sans-serif";
+}
+
+#number-2 {
+    color: #436da5;
+    font-size: 36px;
+}
+
+.change-font-size {
+    font-size: 24;
+}
+
+#number-4 {
+    background-color: #73e58f;
+    font-size: 24px;
+    font-weight: bold;
+}
